@@ -1,0 +1,1 @@
+# deploy-CoreOS-on-VMware-ESXi-via-ssh
